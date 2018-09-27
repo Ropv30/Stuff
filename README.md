@@ -1,5 +1,3 @@
-# blacky-bhop-timer-cs-source
-
 Still functional in 08-2018, version 1-8-3.
 Does NOT work on CSGO
 The reason i'm sharing this is that source is dead 
