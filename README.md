@@ -1,6 +1,6 @@
-# blacky-s-official-css-bhop-timer
+# blacky-official-css-bhop-timer
 
-Still functional in 08-2018
+Still functional in 08-2018, version 1-8-3
 The reason i'm sharing this is that cs:source is dead 
 
 Indisputeble the best bhop timer ever made for source, but nowhere to be found online.
