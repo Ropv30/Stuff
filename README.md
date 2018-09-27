@@ -1,7 +1,8 @@
-# blacky-bhop-timer-css-2018
+# blacky-bhop-timer-cs-source
 
-Still functional in 08-2018, version 1-8-3
-The reason i'm sharing this is that cs:source is dead 
+Still functional in 08-2018, version 1-8-3.
+Does NOT work on CSGO
+The reason i'm sharing this is that source is dead 
 
 Indisputeble the best bhop timer ever made for source, but nowhere to be found online.
 There is one open source version but it doesn't work anymore, this one does. Easy to setup and manage.
